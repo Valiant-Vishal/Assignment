@@ -31,4 +31,3 @@ def twoscompliment(s) -> str:
 
     return "".join(ans)
 
-print(twoscompliment('0101100'))
